@@ -10,7 +10,7 @@
   * CSS e HTML;
   * Json server.
   
-### Para visualizar o projeto criado, consulte:
+### Para visualizar o projeto desenvolvido, consulte:
   * [Back-end publicado no heroku](https://backend-vineflix.herokuapp.com/categorias)
   * [Front-end publicado na vercel](https://projeto-imersao-react-alura.vercel.app)
 
